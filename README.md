@@ -2,10 +2,12 @@
 
 This generic code is presented with the following example:
 
+$$
+\begin{cases}
+$$
 
 The distribution of files is as follows:
-\begin{itemize}
-  \item exampleFunctions.py :
-  \item femFunctions.py :
-  \item FEM_2D.py :
-\end{itemize}
+
+  * exampleFunctions.py :
+  * femFunctions.py :
+  * FEM_2D.py :
