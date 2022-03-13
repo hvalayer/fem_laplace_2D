@@ -10,6 +10,6 @@ which has analytical solution:
 
 The distribution of files is as follows:
 
-  * <u>exampleFunctions.py :</u> file containing Dirichlet boundary conditions function and analytical solution function
+  * <ins>exampleFunctions.py :</ins> file containing Dirichlet boundary conditions function and analytical solution function
   * femFunctions.py : FEM architecture functions, including some additional plot functions (mesh and errors convergence)
   * FEM_2D.py : main file performing the assembly and solving the system, plots generation
